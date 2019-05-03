@@ -1,0 +1,5 @@
+package br.com.projetoREST.controller;
+
+public class ServiceController {
+
+}

@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\logatti.FIAR\Desktop\API\API_REST\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1456107246.index
